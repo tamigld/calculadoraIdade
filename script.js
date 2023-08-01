@@ -58,7 +58,6 @@ function calcularIdade(anoNasc){
 
     let idade = anoAtual - anoNasc
     return idade
-    console.log(idade)
 }
 
 // 3. gerar a faixa etária
